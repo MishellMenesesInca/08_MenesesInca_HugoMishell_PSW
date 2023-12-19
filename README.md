@@ -1,4 +1,3 @@
-# 08_Meneses_Hugo_PSW
 # Repositorio de Pruebas Unitarias y Análisis de Rendimiento con JMeter
 
 Este repositorio está diseñado para facilitar pruebas unitarias y evaluaciones de rendimiento utilizando JMeter. Contiene pruebas unitarias y configuraciones de hilos para analizar el rendimiento del código.
